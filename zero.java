@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*; 
-class number
+class no
 {
     public static void main(String []s)
     {
